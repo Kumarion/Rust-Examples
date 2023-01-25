@@ -27,6 +27,9 @@ mod pizza_order {
         fn serve_customer(cust_pizza: super::Pizza) {
             println!("Here is your pizza with {} dough, {} cheese, and {} toppings", cust_pizza.dough, cust_pizza.cheese, cust_pizza.topping);
         }
+        fn take_payment() {
+            println!("Payment taken");
+        }
     }
 }
 
