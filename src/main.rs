@@ -37,105 +37,105 @@ use crate::restaurant::order_food;
 mod error_handling;
 
 fn main() {
-    // // Constants
-    // println!("Constants:");
-    // constants::constants_func();
+    // Constants
+    println!("Constants:");
+    constants::constants_func();
 
-    // // Asking for name
-    // println!("Asking for name:");
-    // asking_name::asking_name_func();
+    // Asking for name
+    println!("Asking for name:");
+    asking_name::asking_name_func();
 
-    // // Data types
-    // println!("Data types:");
-    // data_types::data_types_func();
+    // Data types
+    println!("Data types:");
+    data_types::data_types_func();
 
     // Math
-    // println!("Math:");
-    // math::math_func();
+    println!("Math:");
+    math::math_func();
 
-    // // Random
-    // println!("Random:");
-    // random::random_func();
+    // Random
+    println!("Random:");
+    random::random_func();
 
-    // // If statements
-    // println!("If statements:");
-    // if_statements::if_statements_func();
+    // If statements
+    println!("If statements:");
+    if_statements::if_statements_func();
 
-    // // Ternary operator
-    // println!("Ternary operator:");
-    // ternary_operator::ternary_operator_func();
+    // Ternary operator
+    println!("Ternary operator:");
+    ternary_operator::ternary_operator_func();
 
-    // // Match example
-    // println!("Match example:");
-    // match_example::match_example_func();
+    // Match example
+    println!("Match example:");
+    match_example::match_example_func();
 
-    // // Arrays
-    // println!("Arrays:");
-    // arrays::arrays_func();
+    // Arrays
+    println!("Arrays:");
+    arrays::arrays_func();
 
-    // // Tuples example
-    // println!("Tuples example:");
-    // tuples_example::tuples_example_func();
+    // Tuples example
+    println!("Tuples example:");
+    tuples_example::tuples_example_func();
 
-    // // String example
-    // println!("String example:");
-    // string_example::string_example_func();
+    // String example
+    println!("String example:");
+    string_example::string_example_func();
 
-    // // Casting
-    // println!("Casting:");
-    // casting::casting_func();
+    // Casting
+    println!("Casting:");
+    casting::casting_func();
 
-    // // Enumerations
-    // println!("Enumerations:");
-    // enumerations::enumerations_func();
+    // Enumerations
+    println!("Enumerations:");
+    enumerations::enumerations_func();
 
-    // // Vectors
-    // println!("Vectors:");
-    // vectors::vectors_func();
+    // Vectors
+    println!("Vectors:");
+    vectors::vectors_func();
 
-    // // Functions
-    // println!("Functions:");
-    // functions::functions_func();
+    // Functions
+    println!("Functions:");
+    functions::functions_func();
 
-    // // Generics
-    // println!("Generics:");
-    // generics::generics_func();
+    // Generics
+    println!("Generics:");
+    generics::generics_func();
 
-    // // Ownership
-    // println!("Ownership:");
-    // ownership::ownership_func();
+    // Ownership
+    println!("Ownership:");
+    ownership::ownership_func();
 
-    // // Hash maps
-    // println!("Hash maps:");
-    // hash_maps_example::hash_maps_func();
+    // Hash maps
+    println!("Hash maps:");
+    hash_maps_example::hash_maps_func();
 
-    // // Structs
-    // println!("Structs:");
-    // structs::structs_func();
+    // Structs
+    println!("Structs:");
+    structs::structs_func();
 
-    // // Modules
-    // println!("Modules:");
-    // modules_example::modules_example_func();
-    // // Run the order_food function from the restaurant module
-    // order_food();
+    // Modules
+    println!("Modules:");
+    modules_example::modules_example_func();
+    // Run the order_food function from the restaurant module
+    order_food();
 
-    // // Error Handling
-    // println!("Error Handling:");
-    // error_handling::error_handling_func();
+    // Error Handling
+    println!("Error Handling:");
+    error_handling::error_handling_func();
 
-    // // Iterators
-    // println!("Iterators:");
-    // iterators::iterators_func();
+    // Iterators
+    println!("Iterators:");
+    iterators::iterators_func();
 
-    // // Closures
-    // println!("Closures:");
-    // closures::closures_func();
+    // Closures
+    println!("Closures:");
+    closures::closures_func();
 
-    // // Smart pointers
-    // println!("Smart pointers:");
-    // smart_pointers::smart_pointers_func();
+    // Smart pointers
+    println!("Smart pointers:");
+    smart_pointers::smart_pointers_func();
 
-    // // Concurrency
-    // println!("Concurrency:");
-    // concurrency::concurrency_func();
+    // Concurrency
+    println!("Concurrency:");
+    concurrency::concurrency_func();
 }
